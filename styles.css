@@ -1,0 +1,63 @@
+*, *::before,*::after{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    background-color: hsl(0, 100%, 74%) ;
+    background-image: url("./intro-component-with-signup-form-master/images/bg-intro-desktop.png");
+    padding: 20px 50px;
+    display: grid;
+    
+    
+}
+.design{
+    padding: 10px;
+    margin: 12px;
+    width: 500px;
+    border-radius: 10px;
+}
+
+.design input{
+    width: 475px;
+    padding:  12px 20px ;
+    border: 1px solid black;
+    
+}
+form{
+    display: grid;
+    background-color: transparent;
+}
+.formerror{
+    color: white;
+}
+.btn{
+    width: 525px;
+    margin-left: 15px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(41, 179, 41);
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+p{
+    margin-left: 15px;
+    padding-top: 15px;
+}
+h1{
+    color: white;
+    margin-left: 15px;
+}
+
+
+
+
+
+
+
+
+
